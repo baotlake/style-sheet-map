@@ -6,6 +6,9 @@
   "files": [
     "dist/**/*"
   ],
+  "repository": {
+    "url": "https://github.com/baotlake/style-sheet-map"
+  },
   "scripts": {
     "build": "vite build && tsc",
     "test": "jest --coverage"

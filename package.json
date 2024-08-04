@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "A StyleSheetMap instance is a Map-like object that allows adding, updating, and deleting CSS rules through key-value pairs. It provides a convenient way to manage and manipulate CSS stylesheets, simplifying the handling of dynamic styles.",
   "main": "./dist/index.mjs",
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "build": "vite build && tsc",
     "test": "jest --coverage"

@@ -2,7 +2,7 @@
 
 A StyleSheetMap instance is a Map-like object that allows adding, updating, and deleting CSS rules through key-value pairs. It provides a convenient way to manage and manipulate CSS stylesheets, simplifying the handling of dynamic styles.
 
-<!-- ## Installation
+## Installation
 ```shell
 # npm
 npm install style-sheet-map
@@ -12,7 +12,7 @@ yarn add style-sheet-map
 
 # pnpm
 pnpm install style-sheet-map
-``` -->
+```
 
 ## Usage
 

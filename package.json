@@ -1,6 +1,6 @@
 {
   "name": "style-sheet-map",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A StyleSheetMap instance is a Map-like object that allows adding, updating, and deleting CSS rules through key-value pairs. It provides a convenient way to manage and manipulate CSS stylesheets, simplifying the handling of dynamic styles.",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.mjs",
